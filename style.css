@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.imagem-cabecalho{
+    width: 218px;
+    height: 218px;
+}
+header{
+    display: flex;
+    background:#473A3A;
+    height: 220px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#title{
+    color: white;
+    font-family: "Italiana", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
